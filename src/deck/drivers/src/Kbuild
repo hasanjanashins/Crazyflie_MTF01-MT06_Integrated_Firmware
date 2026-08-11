@@ -6,6 +6,7 @@ obj-$(CONFIG_DECK_BUZZ)                 += buzzdeck.o
 obj-$(CONFIG_DECK_CPPM)                 += cppmdeck.o
 obj-$(CONFIG_DECK_FLAPPER)              += flapperdeck.o
 obj-$(CONFIG_DECK_FLOW)                 += flowdeck_v1v2.o
+obj-$(CONFIG_DECK_MICOAIR)              += micoair_deck.o
 obj-$(CONFIG_DECK_GTGPS)                += gtgps.o
 obj-$(CONFIG_DECK_LEDRING)              += ledring12.o
 obj-$(CONFIG_DECK_LIGHTHOUSE)           += lighthouse.o
